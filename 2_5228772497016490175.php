@@ -1,6 +1,6 @@
 <?php 
 /**
- *Author: Tilon
+ *Author: Baxodir
  *
  *Telegram : @O00O00O00OOO
  */
